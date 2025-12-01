@@ -10,13 +10,13 @@
 
 ### system programming
 
-[**pipex**](https://github.com/aloimusa/pipex) &nbsp;![Grade: 115](https://img.shields.io/badge/Grade-115/100-brightgreen?style=plastic)
-> pipe implementation mimicking shell behavior.  
-**tech:** c, pipes, processes
-
 [**minishell**](https://github.com/ginkohsu/minishell) &nbsp;![Grade: TBE](https://img.shields.io/badge/Grade-TBE-blue?style=plastic)
 > bash-like shell implementation.  
 **tech:** c, shell, parsing
+
+[**pipex**](https://github.com/aloimusa/pipex) &nbsp;![Grade: 115](https://img.shields.io/badge/Grade-115/100-brightgreen?style=plastic)
+> pipe implementation mimicking shell behavior.  
+**tech:** c, pipes, processes
 
 ---
 
