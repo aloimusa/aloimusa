@@ -6,7 +6,7 @@
 > a custom implementation of libc.   
 **tech:** c, libc
 
-#### [**ft_printf**](https://github. com/aloimusa/ft_printf) &nbsp;![Grade: 100](https://img.shields.io/badge/Grade-100/100-brightgreen?style=plastic)
+#### [**ft_printf**](https://github.com/aloimusa/ft_printf) &nbsp;![Grade: 100](https://img.shields.io/badge/Grade-100/100-brightgreen?style=plastic)
 > recreation of printf.   
 **tech:** c, variadic functions
 
