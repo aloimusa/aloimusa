@@ -1,4 +1,4 @@
-## I study at Hive Helsinki, these are the projects ive worked on so far.
+## These are the 42cursus projects ive worked on so far.
 
 ### concurrency
 
