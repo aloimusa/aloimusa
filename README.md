@@ -38,7 +38,7 @@
 > pipe implementation mimicking shell behavior.  
 **tech:** c, pipes, processes
 
-[**minishell**](https://github.com/aloimusa/minishell) &nbsp;![Grade: TBE](https://img.shields.io/badge/Grade-TBE-blue?style=plastic)
+[**minishell**](https://github.com/ginkohsu/minishell) &nbsp;![Grade: TBE](https://img.shields.io/badge/Grade-TBE-blue?style=plastic)
 > bash-like shell implementation.  
 **tech:** c, shell, parsing
 
